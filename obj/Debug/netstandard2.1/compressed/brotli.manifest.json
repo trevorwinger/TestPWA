@@ -1,7 +1,7 @@
 {
   "FilesToCompress": [
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\eo7pmPfiOqEISFWTmhsqSveahV1agjAn0zIWrcJfsIM=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\qP5lnIMYn45-TwTKItL87DeIcMy3E4qkcBkoc3vuspY=.hash",
       "Source": "C:\\Users\\Art Unlimited User\\source\\repos\\TestProgressiveWebApp\\TestProgressiveWebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\TestProgressiveWebApp.dll",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/TestProgressiveWebApp.dll.br"
     },
@@ -261,7 +261,7 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/Microsoft.JSInterop.WebAssembly.dll.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\YeX2qFb_c761GeHwUGECJuDEDYdoF_XTK44P3zwn1ks=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\a0M_tv7hKHVO52qbI4pKS8HtvTET6pa7oAIWm2_EXn0=.hash",
       "Source": "C:\\Users\\Art Unlimited User\\source\\repos\\TestProgressiveWebApp\\TestProgressiveWebApp\\obj\\Debug\\netstandard2.1\\blazor\\unlinked\\TestProgressiveWebApp.pdb",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/_bin\/TestProgressiveWebApp.pdb.br"
     },
@@ -286,12 +286,12 @@
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.webassembly.js.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\QL4JyX00PolJkJzWMy-YWat2zt8P1FPypUuHw7hcwZk=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\tdoJBnJ7qqpJ_5EzfGvhRhbdkPBwxO9qZ3UpA3vPOPQ=.hash",
       "Source": "C:\\Users\\Art Unlimited User\\source\\repos\\TestProgressiveWebApp\\TestProgressiveWebApp\\obj\\Debug\\netstandard2.1\\blazor\\blazor.boot.json",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\_framework\/blazor.boot.json.br"
     },
     {
-      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\ucjJd9-TgjLnP6Cyim6bzqnOJdvl43pPKiZ_c0RIG_E=.hash",
+      "InputSource": "obj\\Debug\\netstandard2.1\\integrity\\BW7xFEiTdJUNXIo2nP9dFsmp0jsWIqZa-SeuG8_umQM=.hash",
       "Source": "C:\\Users\\Art Unlimited User\\source\\repos\\TestProgressiveWebApp\\TestProgressiveWebApp\\obj\\Debug\\netstandard2.1\\blazor\\service-worker-assets.js",
       "Target": "obj\\Debug\\netstandard2.1\\compressed\\service-worker-assets.js.br"
     }

@@ -1,6 +1,6 @@
 ﻿@page "/counter"
 
-<h1>Changing This</h1>
+<h1>Counter App</h1>
 
 <p>Current count: @currentCount</p>
 
@@ -10,13 +10,22 @@
 
 <button class="btn btn-light" @onclick="SquareCounter">Square Counter</button>
 
-<form>
-    <input name="change_number" type="number"/>
-    <button class="btn btn-outline-dark">Set Number</button>
-</form>
+<button class="btn btn-primary" @onclick="SquareRoot">Square Root</button>
+
+<div>
+    <input @bind="newNumber" type="number"/>
+    <button class="btn btn-outline-dark" @onclick="SetButton">Set Number</button>
+</div>
+
+<div>
+    <input @bind="multiplyFactor" type="number"/>
+    <button class="btn btn-dark" @onclick="MultiplyFactor">Multiply By Factor</button>
+</div>
 
 @code {
-    public int currentCount = 0;
+    private int currentCount = 0;
+    private int newNumber = 0;
+    private int multiplyFactor = 0;
 
     private void IncrementCount()
     {
@@ -35,8 +44,18 @@
 
     private void SetButton()
     {
-        //int number_from_input = change_number.text;
-        //currentCount = number_from_input;
+        currentCount = newNumber;
+        newNumber = 0;
+    }
+
+    private void SquareRoot()
+    {
+        currentCount = (int)Math.Sqrt(currentCount);
+    }
+
+    private void MultiplyFactor()
+    {
+        currentCount = currentCount * multiplyFactor;
     }
 
 }
