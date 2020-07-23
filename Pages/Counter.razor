@@ -1,0 +1,42 @@
+﻿@page "/counter"
+
+<h1>Changing This</h1>
+
+<p>Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Add One</button>
+
+<button class="btn btn-dark" @onclick="DecramentCounter">Subtract One</button>
+
+<button class="btn btn-light" @onclick="SquareCounter">Square Counter</button>
+
+<form>
+    <input name="change_number" type="number"/>
+    <button class="btn btn-outline-dark">Set Number</button>
+</form>
+
+@code {
+    public int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+
+    private void DecramentCounter()
+    {
+        currentCount--;
+    }
+
+    private void SquareCounter()
+    {
+        currentCount = (int)Math.Pow(currentCount, 2);
+    }
+
+    private void SetButton()
+    {
+        //int number_from_input = change_number.text;
+        //currentCount = number_from_input;
+    }
+
+}
