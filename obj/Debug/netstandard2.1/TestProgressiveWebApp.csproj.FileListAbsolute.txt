@@ -363,8 +363,8 @@ C:\Users\Art Unlimited User\source\repos\TestProgressiveWebApp\TestProgressiveWe
 C:\Users\Art Unlimited User\source\repos\TestProgressiveWebApp\TestProgressiveWebApp\obj\Debug\netstandard2.1\blazor\service-worker-assets.js
 C:\Users\Art Unlimited User\source\repos\TestProgressiveWebApp\TestProgressiveWebApp\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Todo.razor.g.cs
 C:\Users\Art Unlimited User\source\repos\TestProgressiveWebApp\TestProgressiveWebApp\obj\Debug\netstandard2.1\Razor\Pages\Todo.razor.g.cs
-C:\Users\Art Unlimited User\source\repos\TestProgressiveWebApp\TestProgressiveWebApp\obj\Debug\netstandard2.1\integrity\Vl1UL_7Db34bD1EJGtyVLlr2lxBlpK8EquK_xfp-CPo=.hash
-C:\Users\Art Unlimited User\source\repos\TestProgressiveWebApp\TestProgressiveWebApp\obj\Debug\netstandard2.1\integrity\O-uV3ko3abqAYwYDuxZxMdpZU3r30HCOgRm6oupEzQo=.hash
-C:\Users\Art Unlimited User\source\repos\TestProgressiveWebApp\TestProgressiveWebApp\obj\Debug\netstandard2.1\integrity\hPaz2YZUmRv4a2DoHufShQgntLjZ9axY8dOux-B9Tnc=.hash
-C:\Users\Art Unlimited User\source\repos\TestProgressiveWebApp\TestProgressiveWebApp\obj\Debug\netstandard2.1\integrity\2r47NdNeOhlobhTvjgRiCcFcx0SsvxkZNEeRmhUn__M=.hash
-C:\Users\Art Unlimited User\source\repos\TestProgressiveWebApp\TestProgressiveWebApp\obj\Debug\netstandard2.1\integrity\UltLF4xDNNPSDQuIaI3pAxz8wnZuVydSEFKkSk_Swzg=.hash
+C:\Users\Art Unlimited User\source\repos\TestProgressiveWebApp\TestProgressiveWebApp\obj\Debug\netstandard2.1\integrity\JC_e1i7IZwbO1VHZskB-0fTf2SDqrdesJbie4VMiwTM=.hash
+C:\Users\Art Unlimited User\source\repos\TestProgressiveWebApp\TestProgressiveWebApp\obj\Debug\netstandard2.1\integrity\eo7pmPfiOqEISFWTmhsqSveahV1agjAn0zIWrcJfsIM=.hash
+C:\Users\Art Unlimited User\source\repos\TestProgressiveWebApp\TestProgressiveWebApp\obj\Debug\netstandard2.1\integrity\YeX2qFb_c761GeHwUGECJuDEDYdoF_XTK44P3zwn1ks=.hash
+C:\Users\Art Unlimited User\source\repos\TestProgressiveWebApp\TestProgressiveWebApp\obj\Debug\netstandard2.1\integrity\QL4JyX00PolJkJzWMy-YWat2zt8P1FPypUuHw7hcwZk=.hash
+C:\Users\Art Unlimited User\source\repos\TestProgressiveWebApp\TestProgressiveWebApp\obj\Debug\netstandard2.1\integrity\ucjJd9-TgjLnP6Cyim6bzqnOJdvl43pPKiZ_c0RIG_E=.hash

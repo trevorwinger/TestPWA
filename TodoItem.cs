@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace TestProgressiveWebApp
+﻿namespace TestProgressiveWebApp
 {
     public class TodoItem
     {
@@ -12,6 +7,7 @@ namespace TestProgressiveWebApp
 
         public TodoItem(string title, bool done)
         {
+            //test with git
             Title = title;
             isDone = done;
         }
